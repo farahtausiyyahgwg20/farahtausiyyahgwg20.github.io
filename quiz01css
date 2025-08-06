@@ -22,7 +22,7 @@
 
         .header {
             grid-area: header;
-            background-color: #d93025; /* Warna merah */
+            background-color: burlywood; /* Warna merah */
             text-align: center;
             padding: 20px;
             font-size: 2em;
@@ -38,7 +38,7 @@
 
         .sidebar-left {
             grid-area: sidebar-left;
-            background-color: #e55c3c; /* Warna merah muda */
+            background-color: bisque; /* Warna merah muda */
             text-align: center;
             padding: 20px;
         }
@@ -52,14 +52,14 @@
 
         .sidebar-right {
             grid-area: sidebar-right;
-            background-color: #e55c3c; /* Warna merah muda */
+            background-color: bisque; /* Warna merah muda */
             text-align: center;
             padding: 20px;
         }
 
         .footer {
             grid-area: footer;
-            background-color: #d93025; /* Warna merah */
+            background-color: beige; /* Warna merah */
             text-align: center;
             padding: 20px;
         }
