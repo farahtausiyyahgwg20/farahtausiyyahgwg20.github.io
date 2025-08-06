@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Struktur Halaman Web</title>
+    <link rel="stylesheet" href="">
+</head>
+<body>
+
+    <div class="container">
+        <header class="header">
+            <h1>Header</h1>
+        </header>
+
+        <nav class="nav">
+            <h2>Menu Navigasi</h2>
+        </nav>
+
+        <aside class="sidebar-left">
+            <h3>Sidebar</h3>
+        </aside>
+
+        <main class="content">
+            <h3>Content</h3>
+        </main>
+
+        <aside class="sidebar-right">
+            <h3>Sidebar</h3>
+        </aside>
+
+        <footer class="footer">
+            <h3>Footer</h3>
+        </footer>
+    </div>
+
+</body>
+</html>
